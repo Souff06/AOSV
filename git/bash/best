@@ -2,9 +2,6 @@
 <<<<<<< HEAD
 echo "The school is open!"
 =======
-<<<<<<< HEAD
-echo "This School is open!"
-=======
 echo "Best School"
 >>>>>>> update_script
 >>>>>>> main
